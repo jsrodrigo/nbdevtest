@@ -1,9 +1,9 @@
-repository: {jsrodrigo}/{nbdevtest}
+repository: jsrodrigo/nbdevtest
 output: web
-topnav_title: {lib_name}
-site_title: {lib_name}
+topnav_title: nbdevtest
+site_title: nbdevtest
 company_name: JSR
-description: {This is a test of dbdev following the tutorial}
+description: This is a test of dbdev following the tutorial
 # Set to false to disable KaTeX math
 use_math: true
 # Add Google analytics id if you have one and want to use it here
@@ -63,4 +63,4 @@ plugins:
     - jekyll-remote-theme
     
 remote_theme: fastai/nbdev-jekyll-theme
-baseurl: /lib/
+baseurl: /hellonbdev/

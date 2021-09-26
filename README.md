@@ -10,7 +10,7 @@ This file will become your README and also the index of your documentation.
 
 ## How to use
 
-This tutorial includes the function 
+This tutorial includes the function *say_hello()* so go ahead and use it!, for example:
 
 ```python
 say_hello("Javier")
