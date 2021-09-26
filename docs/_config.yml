@@ -1,4 +1,4 @@
-repository: {jsrodrigo}/{lib_name}
+repository: {jsrodrigo}/{nbdevtest}
 output: web
 topnav_title: {lib_name}
 site_title: {lib_name}
